@@ -12,9 +12,9 @@ The app works in the following way:
 - **Generating the number**: First the program randomly generates its number
 - **Collecting the data**: It collects the user number from the user
 - **Matching**: The computer then matches the user number with its number and handles following cases:
-- if user and computer number matches computer health is reduced by 10
-- if it does not matches then user health is reduced by 10
-- if user and computer health is 0 the game ends
+    - if user and computer number matches computer health is reduced by 10
+    - if it does not matches then user health is reduced by 10
+    - if user and computer health is 0 the game ends
 
 ## How to Run the Program
 1. Make sure **Python** is installed.
